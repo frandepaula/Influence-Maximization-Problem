@@ -1,6 +1,6 @@
 # :busts_in_silhouette: :chart_with_upwards_trend: Influence-Maximization-Problem
 
-Trabalho da disciplina de Algoritmos Bioinspirados, com o objetivo de abordar o Problema de Maximização de Influência utilizando uma abordagem heurística, buscando encontrar uma solução ótima na identificação dos K vértices mais influentes em uma determinada rede social.
+Trabalho da disciplina de Algoritmos Bioinspirados com o objetivo de abordar o Problema de Maximização de Influência através de uma abordagem heurística, buscando uma solução ótima na identificação dos K vértices mais influentes em uma rede social específica.
 ## Execução
 
     $ python main.py [Tipo de entrada de texto] [Tipo de resolução] [Parametro 3] [Social Network] [Tamanho do Grafo] [Probabilidade]
